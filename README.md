@@ -1,2 +1,2 @@
-��#� �E�i�d�-�Z�a�k�a�t�
+Eid-Zakat
 Site-Link: https://mrmerndeveloper.github.io/Eid-Zakat/
