@@ -32,6 +32,7 @@ body{
     color: white;
     text-align: justify;
     font-size: 16px;
+    padding-left: -20px;
 }
 .donate-button{
     text-decoration: none;
@@ -58,7 +59,7 @@ section{
 
 .half-div h1{
     color: black;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
 }
 .videos{
@@ -82,4 +83,33 @@ img{
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
+}
+.donation-area{
+    width: 100%;
+    margin: 0;
+    height: 250px;
+    
+}
+.icon{
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+
+}
+.donation-area{
+    display: flex;
+    margin-top: 40px;
+    padding-left: 15%;
+    
+}
+.icon-area{
+    
+    width: 30%;
+    margin-left: 3%;
+    background-color: #FEF4F5;
+    border-radius: 10px;
+}
+.icon-area h3,p{
+   
+  
 }
