@@ -118,6 +118,25 @@ img{
     padding-left: 20px;
     padding-right: 20px;
 }
+.img-section{margin-top: 60px;
+    display: flex;
+    height: 400px;
+}
+.monajat{
+    height: 400px;
+    padding-left: 5%;
+    width: 25%;     
+}
+.monajat-img{
+    width: 100%;
+   
+}
+.last-padding{
+    padding-left:50px;
+}
+.color{
+    color: red;
+}
     
     
     
