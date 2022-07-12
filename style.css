@@ -163,11 +163,12 @@ img{
 }
 footer{
     width: 100%;
-    height: 250px;
+    height: 177px;
     background-color: #0B0D17;
     text-align: center;
 }
 #color-red{
+    font-family: 'Dancing Script', cursiv;
     padding-top: 60px;
     color: red;
 }
